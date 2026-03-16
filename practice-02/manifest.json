@@ -4,7 +4,7 @@
   "scope": "./",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com",
+      "src": "icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
